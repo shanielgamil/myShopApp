@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "151503521525",
+    "firebase_url": "https://myshoppingapp-68410-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "myshoppingapp-68410",
+    "storage_bucket": "myshoppingapp-68410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151503521525:android:9413ac2da0a5f13570a7bc",
+        "android_client_info": {
+          "package_name": "com.example.myshoppingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX9cHZEII0hAwuZQEftmmVt93Yc1Zcb0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
