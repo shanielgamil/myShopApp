@@ -15,15 +15,14 @@
             android:id="@+id/emailInput"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="email"
-            android:text="a@a.com" />
+            android:hint="email" />
 
         <EditText
             android:id="@+id/passwordInput"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="password"
-            android:text="123456" />
+            android:inputType="textPassword" />
     </LinearLayout>
 
     <Button
